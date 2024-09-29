@@ -2,7 +2,19 @@
   {
     "id": 1,
     "email": "qqqq@mail.ru",
-    "password": "$2a$10$aMi7CWLtRDE.VgQwO9zO9eUh.vh72ycYXsbz.K42Virzyw1FQFrze",
+    "password": "$2a$10$I7/6cDCBqtqa5JlEQcYgVuAUr49FT1RtgKOcGC2wjhffFqDPyyMMm",
+    "super": false
+  },
+  {
+    "id": 2,
+    "email": "superpuper@gmail.com",
+    "password": "$2a$10$b4UbmtPK8qJfbXbhKyp0e.sUYiD4TMQ1N.UnDLVU3fKo9YUeJRIve",
+    "super": true
+  },
+  {
+    "id": 3,
+    "email": "noright@gmail.com",
+    "password": "$2a$10$CYAbuMfnrECqWl68PoAWe.ShKZkg4UHbRENipnPJUo4.8i4ln7Dr.",
     "super": false
   }
 ]
